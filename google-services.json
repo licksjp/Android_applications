@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "827121762405",
+    "firebase_url": "https://android-fb92c.firebaseio.com",
+    "project_id": "android-fb92c",
+    "storage_bucket": "android-fb92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827121762405:android:c4731aa2277cefa9",
+        "android_client_info": {
+          "package_name": "houji.calender.jp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827121762405-8u9s6ke3ouaq2049lksk4ijsr7si7pe4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "827121762405-8u9s6ke3ouaq2049lksk4ijsr7si7pe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkDv5BmQxsRlHzULX-Q1DZPKKSy13vyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827121762405:android:2d1364018d05cd41",
+        "android_client_info": {
+          "package_name": "mamori.honzon.checker.light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827121762405-8u9s6ke3ouaq2049lksk4ijsr7si7pe4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "827121762405-8u9s6ke3ouaq2049lksk4ijsr7si7pe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkDv5BmQxsRlHzULX-Q1DZPKKSy13vyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827121762405:android:9c7182a9791212fa",
+        "android_client_info": {
+          "package_name": "record.player.light.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827121762405-8u9s6ke3ouaq2049lksk4ijsr7si7pe4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "827121762405-8u9s6ke3ouaq2049lksk4ijsr7si7pe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkDv5BmQxsRlHzULX-Q1DZPKKSy13vyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
